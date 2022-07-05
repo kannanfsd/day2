@@ -1,6 +1,0 @@
-Dog
-Cow
-Snake
-Lion
-Tiger
-Elephant
