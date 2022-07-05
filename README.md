@@ -1,5 +1,7 @@
 Day2 - Activities
 
+Developement Process is Done.
+
 1. How to create branch in Git Repository?
    git checkout -b <branch-name>   
 
